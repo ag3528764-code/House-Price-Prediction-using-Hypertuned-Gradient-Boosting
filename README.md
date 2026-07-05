@@ -21,15 +21,4 @@ Interactive UI:** Features a production-ready Streamlit interface where users ca
 * `app.py` — The interactive user application that loads the trained pipeline binaries and hosts the web dashboard.
 * `requirements.txt` — Lists the external third-party dependencies required to install and deploy the workspace.
 
----
 
-# Installation & Setup
-
-# 1. Prerequisites
-Make sure you have Python 3.8 or higher installed on your computer.
-
-# 2. Install Dependencies
-Clone the repository and run the following command in your terminal to install the required external libraries:
-
-```bash
-pip install streamlit pandas numpy scikit-learn matplotlib seaborn joblib
